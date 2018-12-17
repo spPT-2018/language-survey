@@ -1,0 +1,23 @@
+{
+  "C": 17918932,
+  "C++": 6334085,
+  "JavaScript": 370491,
+  "Ruby": 358208,
+  "Objective-C": 215507,
+  "SourcePawn": 213337,
+  "SystemVerilog": 171234,
+  "Ragel in Ruby Host": 128173,
+  "CMake": 102906,
+  "Makefile": 62092,
+  "Java": 59210,
+  "C#": 36958,
+  "Perl": 31202,
+  "Shell": 29920,
+  "HTML": 18346,
+  "CSS": 4117,
+  "GLSL": 3292,
+  "Frege": 1323,
+  "Python": 1259,
+  "QMake": 1011,
+  "Batchfile": 190
+}

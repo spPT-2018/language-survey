@@ -1,0 +1,201 @@
+Python
+Shell
+JavaScript
+HTML
+CSS
+ActionScript
+Perl
+C
+Objective-C
+C++
+Roff
+M4
+Makefile
+NSIS
+Lua
+Scheme
+PHP
+Smarty
+C#
+Batchfile
+Java
+Standard ML
+Scala
+CoffeeScript
+Haskell
+Inno Setup
+Ruby
+XSLT
+Common Lisp
+GLSL
+WebAssembly
+Objective-C++
+Module Management System
+Assembly
+Awk
+DIGITAL Command Language
+SAS
+CMake
+Smalltalk
+PowerShell
+SourcePawn
+Go
+D
+Dart
+OpenEdge ABL
+M
+Matlab
+Clojure
+Pascal
+Groovy
+QMake
+Emacs Lisp
+POV-Ray SDL
+Cuda
+Rust
+Dockerfile
+Swift
+HLSL
+Squirrel
+CLIPS
+TeX
+Ada
+Erlang
+TypeScript
+sed
+Verilog
+XC
+Clean
+Gherkin
+Visual Basic
+ShaderLab
+Parrot
+Processing
+GDScript
+Perl 6
+ASP
+Mathematica
+Red
+Vim script
+PostScript
+Kotlin
+Yacc
+GAP
+ApacheConf
+AppleScript
+Mako
+Meson
+LoomScript
+PLSQL
+PAWN
+Gnuplot
+Opa
+Racket
+Metal
+Groff
+OpenSCAD
+Vue
+VHDL
+Ragel in Ruby Host
+Logos
+MAXScript
+Jupyter Notebook
+R
+Lex
+Clarion
+F#
+Arduino
+Eiffel
+Mask
+Vala
+Prolog
+Chapel
+Gosu
+Fortran
+1C Enterprise
+QML
+FLUX
+Max
+Nix
+Protocol Buffer
+GDB
+Brainfuck
+Mirah
+E
+SQLPL
+PLpgSQL
+Tcl
+Elixir
+Limbo
+HCL
+Haxe
+Nemerle
+OCaml
+Terra
+Forth
+Scilab
+AutoHotkey
+AngelScript
+PureBasic
+Nginx
+Crystal
+RenderScript
+Hack
+XS
+XML
+Component Pascal
+Elm
+IDL
+Puppet
+Game Maker Language
+LLVM
+UnrealScript
+SuperCollider
+Rebol
+JSONiq
+Inform 7
+Ren'Py
+Pike
+ooc
+Io
+AutoIt
+DTrace
+REXX
+Nim
+AspectJ
+NewLisp
+Eagle
+KiCad Layout
+Slash
+Graphviz (DOT)
+AMPL
+AGS Script
+Bison
+Frege
+SystemVerilog
+PureScript
+RPC
+Hy
+DCPU-16 ASM
+FreeMarker
+Nu
+Csound Document
+eC
+LiveScript
+BlitzMax
+Ioke
+DM
+Grammatical Framework
+Boo
+Ragel
+MoonScript
+ANTLR
+Glyph
+Apex
+SQF
+Lasso
+Diff
+Factor
+Pure Data
+Kit
+Mercury

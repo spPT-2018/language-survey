@@ -1,0 +1,12 @@
+{
+  "C": 2381015,
+  "C++": 593225,
+  "CMake": 80802,
+  "Python": 80784,
+  "GLSL": 35554,
+  "Objective-C": 10085,
+  "Assembly": 4142,
+  "Shell": 2442,
+  "Makefile": 1393,
+  "GDB": 27
+}

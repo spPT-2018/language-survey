@@ -1,0 +1,1 @@
+jq '.["items"] | .[] | .html_url' > 2curltest.json

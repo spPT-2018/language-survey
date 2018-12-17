@@ -1,0 +1,16 @@
+{
+  "Lua": 734665,
+  "JavaScript": 716027,
+  "C++": 414174,
+  "Python": 87348,
+  "Dart": 43078,
+  "CMake": 24044,
+  "Makefile": 5719,
+  "Rust": 5078,
+  "GLSL": 3572,
+  "Shell": 3396,
+  "HTML": 2437,
+  "CSS": 731,
+  "QMake": 354,
+  "Batchfile": 231
+}

@@ -1,0 +1,11 @@
+freeciv/freeciv
+alpcoskun/snake
+unknown-horizons/unknown-horizons
+SFTtech/openage
+OpenMafia/OpenMF
+OpenMW/openmw
+Open-SoOpenRA/OpenRA
+OpenRCT2/OpenRCT2
+fph/bastet
+alexdantas/pacman4console.debian
+olistic/warriorjs

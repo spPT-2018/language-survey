@@ -1,0 +1,23 @@
+{
+  "C++": 7071701,
+  "C": 587633,
+  "JavaScript": 561829,
+  "PHP": 258379,
+  "CMake": 193907,
+  "M4": 150446,
+  "Python": 129920,
+  "Shell": 127283,
+  "NSIS": 57913,
+  "Makefile": 28520,
+  "GLSL": 20356,
+  "CSS": 11748,
+  "Objective-C++": 11737,
+  "HTML": 9588,
+  "PowerShell": 7143,
+  "Ruby": 6158,
+  "AppleScript": 3528,
+  "Dockerfile": 1932,
+  "QMake": 1285,
+  "Hack": 1095,
+  "Batchfile": 572
+}

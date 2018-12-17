@@ -1,0 +1,18 @@
+{
+  "C": 4239043,
+  "Perl": 103783,
+  "Lua": 100928,
+  "HTML": 95007,
+  "OpenSCAD": 71379,
+  "GLSL": 55158,
+  "HLSL": 55110,
+  "Java": 50616,
+  "Makefile": 46355,
+  "Roff": 44173,
+  "Shell": 28288,
+  "C++": 18318,
+  "Objective-C": 3655,
+  "Python": 1640,
+  "ShaderLab": 1155,
+  "Awk": 780
+}
